@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:title="Tạo thư mục"
+        android:id="@+id/newFolder"
+        android:icon="@drawable/new_folder"
+        />
+    <item android:title="Tạo file văn bản"
+        android:id="@+id/newText"
+        android:icon="@drawable/new_text"/>
+</menu>
